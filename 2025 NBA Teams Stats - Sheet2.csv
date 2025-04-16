@@ -1,0 +1,21 @@
+Team,Conference,FG_PCT,FG3_PCT,PTS,PCT,SRS
+Cleveland Cavaliers,East,0.493,0.383,121.9,0.78,8.81
+Boston Celtics,East,0.462,0.369,116.3,0.744,8.28
+New York Knicks,East,0.487,0.368,115.8,0.622,3.59
+Indiana Pacers,East,0.491,0.372,117.4,0.61,1.68
+Milwaukee Bucks,East,0.484,0.384,115.5,0.585,2.12
+Detroit Pistons,East,0.476,0.363,115.5,0.537,1.73
+Orlando Magic,East,0.443,0.314,105.4,0.5,-0.7
+Atlanta Hawks,East,0.469,0.355,118.2,0.488,-1.41
+Chicago Bulls,East,0.47,0.367,117.8,0.476,-1.83
+Miami Heat,East,0.465,0.367,110.6,0.451,0.11
+Oklahoma City Thunder,West,0.481,0.375,120.5,0.829,12.7
+Houston Rockets,West,0.453,0.35,114.3,0.634,4.97
+Los Angeles Lakers,West,0.478,0.361,113.4,0.61,1.45
+Denver Nuggets,West,0.505,0.379,120.8,0.61,3.97
+LA Clippers,West,0.478,0.368,112.9,0.61,4.84
+Minnesota Timberwolves,West,0.466,0.38,114.3,0.598,5.15
+Golden State Warriors,West,0.45,0.362,113.8,0.585,3.56
+Memphis Grizzlies,West,0.48,0.367,121.7,0.585,4.79
+Sacramento Kings,West,0.478,0.357,115.7,0.488,0.58
+Dallas Mavericks,West,0.479,0.364,114.2,0.476,-0.74

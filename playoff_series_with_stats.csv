@@ -1,0 +1,151 @@
+Year,Round,Team 1,Team 1 Wins,Team 2,Team 2 Wins,Winner,Team 1_FG_PCT,Team 1_FG3_PCT,Team 1_PTS,Team 1_WinPCT,Team 2_FG_PCT,Team 2_FG3_PCT,Team 2_PTS,Team 2_WinPCT,Team 1_SRS,Team 2_SRS
+2024,ECF,Boston Celtics,4,Indiana Pacers,0,Boston Celtics,0.487,0.388,9887,0.78,0.507,0.374,10110,0.573,10.75,2.75
+2024,Finals,Boston Celtics,4,Dallas Mavericks,1,Boston Celtics,0.487,0.388,9887,0.78,0.481,0.369,9664,0.61,10.75,2.30
+2024,WCF,Dallas Mavericks,4,Minnesota Timberwolves,1,Dallas Mavericks,0.481,0.369,9664,0.61,0.485,0.387,9264,0.683,2.30,6.39
+2024,ECS,Boston Celtics,4,Cleveland Cavaliers,1,Boston Celtics,0.487,0.388,9887,0.78,0.479,0.367,9236,0.585,10.75,1.98
+2024,ECS,Indiana Pacers,4,New York Knicks,3,Indiana Pacers,0.507,0.374,10110,0.573,0.465,0.369,9249,0.61,2.75,4.36
+2024,WCS,Dallas Mavericks,4,Oklahoma City Thunder,2,Dallas Mavericks,0.481,0.369,9664,0.61,0.499,0.389,9847,0.695,2.30,7.36
+2024,WCS,Minnesota Timberwolves,4,Denver Nuggets,3,Minnesota Timberwolves,0.485,0.387,9264,0.683,0.496,0.374,9418,0.695,6.39,5.23
+2024,ECFR,Boston Celtics,4,Miami Heat,1,Boston Celtics,0.487,0.388,9887,0.78,0.465,0.37,9032,0.561,10.75,1.10
+2024,ECFR,Cleveland Cavaliers,4,Orlando Magic,3,Cleveland Cavaliers,0.479,0.367,9236,0.585,0.476,0.352,9058,0.573,1.98,1.48
+2024,ECFR,Indiana Pacers,4,Milwaukee Bucks,2,Indiana Pacers,0.507,0.374,10110,0.573,0.487,0.373,9756,0.598,2.75,2.44
+2024,ECFR,New York Knicks,4,Philadelphia 76ers,2,New York Knicks,0.465,0.369,9249,0.61,0.464,0.363,9397,0.573,4.36,2.51
+2024,WCFR,Dallas Mavericks,4,LA Clippers,2,Dallas Mavericks,0.481,0.369,9664,0.61,0.489,0.381,9481,0.622,2.30,3.41
+2024,WCFR,Denver Nuggets,4,Los Angeles Lakers,1,Denver Nuggets,0.496,0.374,9418,0.695,0.499,0.377,9679,0.573,5.23,1.07
+2024,WCFR,Minnesota Timberwolves,4,Phoenix Suns,0,Minnesota Timberwolves,0.485,0.387,9264,0.683,0.493,0.382,9532,0.598,6.39,3.08
+2024,WCFR,Oklahoma City Thunder,4,New Orleans Pelicans,0,Oklahoma City Thunder,0.499,0.389,9847,0.695,0.486,0.383,9436,0.598,7.36,4.46
+2023,Finals,Denver Nuggets,4,Miami Heat,1,Denver Nuggets,0.504,0.379,9495,0.646,0.46,0.344,8977,0.537,3.04,-0.13
+2023,ECF,Miami Heat,4,Boston Celtics,3,Miami Heat,0.46,0.344,8977,0.537,0.475,0.377,9671,0.695,-0.13,6.38
+2023,WCF,Denver Nuggets,4,Los Angeles Lakers,0,Denver Nuggets,0.504,0.379,9495,0.646,0.482,0.346,9608,0.524,3.04,0.43
+2023,ECS,Boston Celtics,4,Philadelphia 76ers,3,Boston Celtics ,0.475,0.377,9671,0.695,0.487,0.387,9448,0.659,6.38,4.37
+2023,ECS,Miami Heat,4,New York Knicks,2,Miami Heat,0.46,0.344,8977,0.537,0.47,0.354,9514,0.573,-0.13,2.99
+2023,WCS,Denver Nuggets,4,Phoenix Suns,2,Denver Nuggets,0.504,0.379,9495,0.646,0.467,0.374,9319,0.549,3.04,2.08
+2023,WCS,Los Angeles Lakers,4,Golden State Warriors,2,Los Angeles Lakers,0.482,0.346,9608,0.524,0.479,0.385,9753,0.537,0.43,1.66
+2023,ECFR,Boston Celtics,4,Atlanta Hawks,2,Boston Celtics,0.475,0.377,9671,0.695,0.483,0.352,9711,0.5,6.39,0.32
+2023,ECFR,Miami Heat,4,Milwaukee Bucks,1,Miami Heat,0.46,0.344,8977,0.537,0.473,0.368,9589,0.707,-0.13,3.61
+2023,ECFR,New York Knicks,4,Cleveland Cavaliers,1,New York Knicks,0.47,0.354,9514,0.573,0.488,0.367,9205,0.622,2.99,5.23
+2023,ECFR,Philadelphia 76ers,4,Brooklyn Nets,0,Philadelphia 76ers,0.487,0.387,9448,0.659,0.487,0.378,9295,0.549,4.37,1.03
+2023,WCFR,Denver Nuggets,4,Minnesota Timberwolves,1,Denver Nuggets,0.504,0.379,9495,0.646,0.49,0.365,9494,0.512,3.04,-0.22
+2023,WCFR,Golden State Warriors,4,Sacramento Kings,3,Golden State Warriors,0.479,0.385,9753,0.537,0.494,0.369,9898,0.585,1.66,2.30
+2023,WCFR,Los Angeles Lakers,4,Memphis Grizzlies,2,Los Angeles Lakers,0.482,0.346,9608,0.524,0.475,0.351,9587,0.622,0.43,3.60
+2023,WCFR,Phoenix Suns,4,LA Clippers,1,Phoenix Suns,0.467,0.374,9319,0.549,0.477,0.381,9314,0.537,2.08,0.31
+2022,Finals,Golden State Warriors,4,Boston Celtics,2,Golden State Warriors,0.469,0.364,9102,0.646,0.466,0.356,9164,0.622,5.52,7.02
+2022,ECF,Boston Celtics,4,Miami Heat,3,Boston Celtics,0.466,0.356,9164,0.622,0.467,0.379,9022,0.646,7.02,4.23
+2022,WCF,Golden State Warriors,4,Dallas Mavericks,1,Golden State Warriors,0.469,0.364,9102,0.646,0.461,0.35,8858,0.634,5.52,3.12
+2022,ECS,Boston Celtics,4,Milwaukee Bucks,3,Boston Celtics,0.466,0.356,9164,0.622,0.468,0.366,9470,0.622,7.02,3.22
+2022,ECS,Miami Heat,4,Philadelphia 76ers,2,Miami Heat,0.467,0.379,9022,0.646,0.466,0.364,9015,0.622,4.23,2.57
+2022,WCS,Dallas Mavericks,4,Phoenix Suns,3,Dallas Mavericks,0.461,0.35,8858,0.634,0.485,0.364,9416,0.78,3.12,6.94
+2022,WCS,Golden State Warriors,4,Memphis Grizzlies,2,Golden State Warriors,0.469,0.364,9102,0.646,0.461,0.353,9480,0.683,5.52,5.37
+2022,ECFR,Boston Celtics,4,Brooklyn Nets,0,Boston Celtics,0.466,0.356,9164,0.622,0.475,0.361,9258,0.537,7.02,0.82
+2022,ECFR,Miami Heat,4,Atlanta Hawks,1,Miami Heat,0.467,0.379,9022,0.646,0.47,0.374,9343,0.524,4.23,1.55
+2022,ECFR,Milwaukee Bucks,4,Chicago Bulls,1,Milwaukee Bucks,0.468,0.366,9470,0.622,0.48,0.369,9152,0.561,3.22,-0.38
+2022,ECFR,Philadelphia 76ers,4,Toronto Raptors,2,Philadelphia 76ers,0.466,0.364,9015,0.622,0.445,0.349,8970,0.585,2.57,2.38
+2022,WCFR,Dallas Mavericks,4,Utah Jazz,2,Dallas Mavericks,0.461,0.35,8858,0.634,0.471,0.36,9316,0.598,3.12,5.67
+2022,WCFR,Golden State Warriors,4,Denver Nuggets,1,Golden State Warriors,0.469,0.364,9102,0.646,0.483,0.353,9243,0.585,5.52,2.16
+2022,WCFR,Memphis Grizzlies,4,Minnesota Timberwolves,2,Memphis Grizzlies,0.461,0.353,9480,0.683,0.457,0.358,9507,0.561,5.37,2.53
+2022,WCFR,Phoenix Suns,4,New Orleans Pelicans,2,Phoenix Suns,0.485,0.364,9416,0.78,0.457,0.332,8962,0.439,6.94,-0.84
+2021,Finals,Milwaukee Bucks,4,Phoenix Suns,2,Milwaukee Bucks,0.487,0.389,8649,0.639,0.49,0.378,8300,0.708,5.57,5.67
+2021,ECF,Milwaukee Bucks,4,Atlanta Hawks,2,Milwaukee Bucks,0.487,0.389,8649,0.639,0.468,0.373,8186,0.569,5.57,2.14
+2021,WCF,Phoenix Suns,4,LA Clippers,2,Phoenix Suns,0.49,0.378,8300,0.708,0.482,0.411,8209,0.653,5.67,6.02
+2021,ECS,Atlanta Hawks,4,Philadelphia 76ers,3,Atlanta Hawks,0.468,0.373,8186,0.569,0.476,0.374,8182,0.681,2.14,5.28
+2021,ECS,Milwaukee Bucks,4,Brooklyn Nets,3,Milwaukee Bucks,0.487,0.389,8649,0.639,0.494,0.392,8537,0.667,5.57,4.24
+2021,WCS,LA Clippers,4,Utah Jazz,2,LA Clippers,0.482,0.411,8209,0.653,0.468,0.389,8382,0.722,6.02,8.97
+2021,WCS,Phoenix Suns,4,Denver Nuggets,0,Phoenix Suns,0.49,0.378,8300,0.708,0.485,0.377,8284,0.653,5.67,4.82
+2021,ECFR,Atlanta Hawks,4,New York Knicks,1,Atlanta Hawks,0.468,0.373,8186,0.569,0.456,0.392,7706,0.569,2.14,2.13
+2021,ECFR,Brooklyn Nets,4,Boston Celtics,1,Brooklyn Nets,0.494,0.392,8537,0.667,0.466,0.374,8109,0.5,4.24,1.32
+2021,ECFR,Milwaukee Bucks,4,Miami Heat,0,Milwaukee Bucks,0.487,0.389,8649,0.639,0.468,0.358,7781,0.556,5.57,-0.06
+2021,ECFR,Philadelphia 76ers,4,Washington Wizards,1,Philadelphia 76ers,0.476,0.374,8182,0.681,0.475,0.351,8398,0.472,5.28,-1.85
+2021,WCFR,Denver Nuggets,4,Portland Trail Blazers,2,Denver Nuggets,0.485,0.377,8284,0.653,0.453,0.385,8360,0.583,4.82,1.81
+2021,WCFR,LA Clippers,4,Dallas Mavericks,3,LA Clippers,0.482,0.411,8209,0.653,0.47,0.362,8096,0.583,6.02,2.26
+2021,WCFR,Phoenix Suns,4,Los Angeles Lakers,2,Phoenix Suns,0.49,0.378,8300,0.708,0.472,0.354,7887,0.583,5.67,2.77
+2021,WCFR,Utah Jazz,4,Memphis Grizzlies,1,Utah Jazz,0.468,0.389,8382,0.722,0.467,0.356,8157,0.528,8.97,1.07
+2020,Finals,Los Angeles Lakers,4,Miami Heat,2,Los Angeles Lakers,0.48,0.349,8054,0.732,0.468,0.379,8179,0.603,6.28,2.59
+2020,ECF,Miami Heat,4,Boston Celtics,2,Miami Heat,0.468,0.379,8179,0.603,0.461,0.364,8183,0.667,2.59,5.83
+2020,WCF,Los Angeles Lakers,4,Denver Nuggets,1,Los Angeles Lakers,0.48,0.349,8054,0.732,0.473,0.359,8124,0.63,6.28,2.35
+2020,ECS,Boston Celtics,4,Toronto Raptors,3,Boston Celtics,0.461,0.364,8183,0.667,0.458,0.374,8118,0.736,5.83,5.97
+2020,ECS,Miami Heat,4,Milwaukee Bucks,1,Miami Heat,0.468,0.379,8179,0.603,0.476,0.355,8663,0.767,2.59,9.41
+2020,WCS,Denver Nuggets,4,LA Clippers,3,Denver Nuggets,0.473,0.359,8124,0.63,0.466,0.371,8377,0.681,2.35,6.66
+2020,WCS,Los Angeles Lakers,4,Houston Rockets,1,Los Angeles Lakers,0.48,0.349,8054,0.732,0.451,0.345,8482,0.611,6.28,3.13
+2020,ECFR,Boston Celtics,4,Philadelphia 76ers,0,Boston Celtics,0.461,0.364,8183,0.667,0.468,0.368,8084,0.589,5.83,2.25
+2020,ECFR,Miami Heat,4,Indiana Pacers,0,Miami Heat,0.468,0.379,8179,0.603,0.476,0.363,7989,0.616,2.59,1.63
+2020,ECFR,Milwaukee Bucks,4,Orlando Magic,1,Milwaukee Bucks,0.476,0.355,8663,0.767,0.444,0.343,7831,0.452,9.41,-0.93
+2020,ECFR,Toronto Raptors,4,Brooklyn Nets,0,Toronto Raptors,0.458,0.374,8118,0.736,0.448,0.343,8048,0.486,5.97,-1.01
+2020,WCFR,Denver Nuggets,4,Utah Jazz,3,Denver Nuggets,0.473,0.359,8124,0.63,0.471,0.38,8013,0.611,2.35,2.52
+2020,WCFR,Houston Rockets,4,Oklahoma City Thunder,3,Houston Rockets,0.451,0.345,8482,0.611,0.468,0.355,7950,0.611,3.13,2.33
+2020,WCFR,LA Clippers,4,Dallas Mavericks,2,LA Clippers,0.466,0.371,8377,0.681,0.461,0.367,8776,0.573,6.66,4.87
+2020,WCFR,Los Angeles Lakers,4,Portland Trail Blazers,1,Los Angeles Lakers,0.48,0.349,8054,0.732,0.463,0.377,8508,0.473,6.28,-0.61
+2019,Finals,Toronto Raptors,4,Golden State Warriors,2,Toronto Raptors,0.474,0.366,9384,0.707,0.491,0.385,9650,0.695,5.49,6.42
+2019,ECF,Toronto Raptors,4,Milwaukee Bucks,2,Toronto Raptors,0.474,0.366,9384,0.707,0.476,0.353,9686,0.732,5.49,8.04
+2019,WCF,Golden State Warriors,4,Portland Trail Blazers,0,Golden State Warriors,0.491,0.385,9650,0.695,0.467,0.359,9402,0.646,6.42,4.43
+2019,ECS,Milwaukee Bucks,4,Boston Celtics,1,Milwaukee Bucks,0.476,0.353,9686,0.732,0.465,0.365,9216,0.598,8.04,3.90
+2019,ECS,Toronto Raptors,4,Philadelphia 76ers,3,Toronto Raptors,0.474,0.366,9384,0.707,0.471,0.359,9445,0.622,5.49,2.25
+2019,WCS,Golden State Warriors,4,Houston Rockets,2,Golden State Warriors,0.491,0.385,9650,0.695,0.449,0.356,9341,0.646,6.42,4.96
+2019,WCS,Portland Trail Blazers,4,Denver Nuggets,3,Portland Trail Blazers,0.467,0.359,9402,0.646,0.466,0.351,9075,0.659,4.43,4.19
+2019,ECFR,Boston Celtics,4,Indiana Pacers,0,Boston Celtics,0.465,0.365,9216,0.598,0.475,0.374,8857,0.585,3.90,2.76
+2019,ECFR,Milwaukee Bucks,4,Detroit Pistons,0,Milwaukee Bucks,0.476,0.353,9686,0.732,0.44,0.348,8778,0.5,8.04,-0.56
+2019,ECFR,Philadelphia 76ers,4,Brooklyn Nets,1,Philadelphia 76ers,0.471,0.359,9445,0.622,0.449,0.353,9204,0.512,2.25,-0.40
+2019,ECFR,Toronto Raptors,4,Orlando Magic,1,Toronto Raptors,0.474,0.366,9384,0.707,0.454,0.356,8800,0.512,5.49,0.28
+2019,WCFR,Denver Nuggets,4,San Antonio Spurs,3,Denver Nuggets,0.466,0.351,9075,0.659,0.478,0.392,9156,0.585,4.19,1.80
+2019,WCFR,Golden State Warriors,4,LA Clippers,2,Golden State Warriors,0.491,0.385,9650,0.695,0.471,0.388,9442,0.585,6.42,1.09
+2019,WCFR,Houston Rockets,4,Utah Jazz,1,Houston Rockets,0.449,0.356,9341,0.646,0.468,0.356,9161,0.61,4.96,5.28
+2019,WCFR,Portland Trail Blazers,4,Oklahoma City Thunder,1,Portland Trail Blazers,0.467,0.359,9402,0.646,0.454,0.348,9387,0.598,4.43,3.56
+2018,Finals,Golden State Warriors,4,Cleveland Cavaliers,0,Golden State Warriors,0.503,0.391,9304,0.707,0.476,0.372,9091,0.61,5.79,0.59
+2018,ECF,Cleveland Cavaliers,4,Boston Celtics,3,Cleveland Cavaliers,0.476,0.372,9091,0.61,0.45,0.377,8529,0.671,0.59,3.23
+2018,WCF,Golden State Warriors,4,Houston Rockets,3,Golden State Warriors,0.503,0.391,9304,0.707,0.46,0.362,9213,0.793,5.79,8.21
+2018,ECS,Boston Celtics,4,Philadelphia 76ers,1,Boston Celtics,0.45,0.377,8529,0.671,0.472,0.369,9004,0.634,3.23,4.30
+2018,ECS,Cleveland Cavaliers,4,Toronto Raptors,0,Cleveland Cavaliers,0.476,0.372,9091,0.61,0.472,0.358,9156,0.72,0.59,7.29
+2018,WCS,Golden State Warriors,4,New Orleans Pelicans,1,Golden State Warriors,0.503,0.391,9304,0.707,0.483,0.362,9161,0.585,5.79,1.48
+2018,WCS,Houston Rockets,4,Utah Jazz,1,Houston Rockets,0.46,0.362,9213,0.793,0.462,0.366,8540,0.585,8.21,4.47
+2018,ECFR,Boston Celtics,4,Milwaukee Bucks,3,Boston Celtics,0.45,0.377,8529,0.671,0.478,0.355,8731,0.537,3.23,-0.45
+2018,ECFR,Cleveland Cavaliers,4,Indiana Pacers,3,Cleveland Cavaliers,0.476,0.372,9091,0.61,0.472,0.369,8656,0.585,0.59,1.18
+2018,ECFR,Philadelphia 76ers,4,Miami Heat,1,Philadelphia 76ers,0.472,0.369,9004,0.634,0.455,0.36,8480,0.537,4.30,0.15
+2018,ECFR,Toronto Raptors,4,Washington Wizards,2,Toronto Raptors,0.472,0.358,9156,0.72,0.467,0.375,8742,0.524,7.29,0.53
+2018,WCFR,Golden State Warriors,4,San Antonio Spurs,1,Golden State Warriors,0.503,0.391,9304,0.707,0.457,0.352,8424,0.573,5.79,2.89
+2018,WCFR,Houston Rockets,4,Minnesota Timberwolves,1,Houston Rockets,0.46,0.362,9213,0.793,0.476,0.357,8980,0.573,8.21,2.35
+2018,WCFR,New Orleans Pelicans,4,Portland Trail Blazers,0,New Orleans Pelicans,0.483,0.362,9161,0.585,0.452,0.366,8661,0.598,1.48,2.60
+2018,WCFR,Utah Jazz,4,Oklahoma City Thunder,2,Utah Jazz,0.462,0.366,8540,0.585,0.453,0.354,8844,0.585,4.47,3.42
+2017,Finals,Golden State Warriors,4,Cleveland Cavaliers,1,Golden State Warriors,0.495,0.383,9503,0.817,0.47,0.384,9048,0.622,11.35,2.87
+2017,ECF,Cleveland Cavaliers,4,Boston Celtics,1,Cleveland Cavaliers,0.47,0.384,9048,0.622,0.454,0.359,8857,0.646,2.87,2.25
+2017,WCF,Golden State Warriors,4,San Antonio Spurs,0,Golden State Warriors,0.495,0.383,9503,0.817,0.469,0.391,8637,0.744,11.35,7.13
+2017,ECS,Boston Celtics,4,Washington Wizards,3,Boston Celtics,0.454,0.359,8857,0.646,0.475,0.372,8953,0.598,2.25,1.36
+2017,ECS,Cleveland Cavaliers,4,Toronto Raptors,0,Cleveland Cavaliers,0.47,0.384,9048,0.622,0.464,0.363,8762,0.622,2.87,3.65
+2017,WCS,Golden State Warriors,4,Utah Jazz,0,Golden State Warriors,0.495,0.383,9503,0.817,0.466,0.372,8258,0.622,11.35,4.00
+2017,WCS,San Antonio Spurs,4,Houston Rockets,2,San Antonio Spurs,0.469,0.391,8637,0.744,0.462,0.357,9458,0.671,7.13,5.84
+2017,ECFR,Boston Celtics,4,Chicago Bulls,2,Boston Celtics,0.454,0.359,8857,0.646,0.444,0.34,8435,0.5,2.25,0.03
+2017,ECFR,Cleveland Cavaliers,4,Indiana Pacers,0,Cleveland Cavaliers,0.47,0.384,9048,0.622,0.465,0.376,8618,0.512,2.87,-0.64
+2017,ECFR,Toronto Raptors,4,Milwaukee Bucks,2,Toronto Raptors,0.464,0.363,8762,0.622,0.474,0.37,8497,0.512,3.65,-0.45
+2017,ECFR,Washington Wizards,4,Atlanta Hawks,2,Washington Wizards,0.475,0.372,8953,0.598,0.451,0.341,8459,0.524,1.36,-1.23
+2017,WCFR,Golden State Warriors,4,Portland Trail Blazers,0,Golden State Warriors,0.495,0.383,9503,0.817,0.459,0.375,8851,0.5,11.35,-0.23
+2017,WCFR,Houston Rockets,4,Oklahoma City Thunder,1,Houston Rockets,0.462,0.357,9458,0.671,0.452,0.327,8741,0.573,5.84,1.14
+2017,WCFR,San Antonio Spurs,4,Memphis Grizzlies,2,San Antonio Spurs,0.469,0.391,8637,0.744,0.435,0.354,8239,0.524,7.13,0.96
+2017,WCFR,Utah Jazz,4,LA Clippers,3,Utah Jazz,0.466,0.372,8258,0.622,0.475,0.375,8911,0.622,4.00,4.42
+2016,Finals,Cleveland Cavaliers,4,Golden State Warriors,3,Cleveland Cavaliers,0.46,0.362,8555,0.695,0.487,0.416,9421,0.89,5.45,10.38
+2016,ECF,Cleveland Cavaliers,4,Toronto Raptors,2,Cleveland Cavaliers,0.46,0.362,8555,0.695,0.451,0.37,8422,0.683,5.45,4.08
+2016,WCF,Golden State Warriors,4,Oklahoma City Thunder,3,Golden State Warriors,0.487,0.416,9421,0.89,0.476,0.349,9038,0.671,10.38,7.09
+2016,ECS,Cleveland Cavaliers,4,Atlanta Hawks,0,Cleveland Cavaliers,0.46,0.362,8555,0.695,0.458,0.35,8433,0.585,5.45,3.49
+2016,ECS,Toronto Raptors,4,Miami Heat,3,Toronto Raptors,0.451,0.37,8422,0.683,0.47,0.336,8204,0.585,4.08,1.50
+2016,WCS,Golden State Warriors,4,Portland Trail Blazers,1,Golden State Warriors,0.487,0.416,9421,0.89,0.45,0.37,8622,0.537,10.38,0.98
+2016,WCS,Oklahoma City Thunder,4,San Antonio Spurs,2,Oklahoma City Thunder,0.476,0.349,9038,0.671,0.484,0.375,8490,0.817,7.09,10.28
+2016,ECFR,Atlanta Hawks,4,Boston Celtics,2,Atlanta Hawks,0.458,0.35,8433,0.585,0.439,0.335,8669,0.585,3.49,2.84
+2016,ECFR,Cleveland Cavaliers,4,Detroit Pistons,0,Cleveland Cavaliers,0.46,0.362,8555,0.695,0.439,0.345,8361,0.537,5.45,0.43
+2016,ECFR,Miami Heat,4,Charlotte Hornets,3,Miami Heat,0.47,0.336,8204,0.585,0.439,0.362,8479,0.585,1.50,2.36
+2016,ECFR,Toronto Raptors,4,Indiana Pacers,3,Toronto Raptors,0.451,0.37,8422,0.683,0.45,0.351,8377,0.549,4.08,1.62
+2016,WCFR,Golden State Warriors,4,Houston Rockets,1,Golden State Warriors,0.487,0.416,9421,0.89,0.452,0.347,8737,0.5,10.38,0.34
+2016,WCFR,Oklahoma City Thunder,4,Dallas Mavericks,1,Oklahoma City Thunder,0.476,0.349,9038,0.671,0.444,0.344,8388,0.512,7.09,-0.02
+2016,WCFR,Portland Trail Blazers,4,LA Clippers,2,Portland Trail Blazers,0.45,0.37,8622,0.537,0.465,0.364,8569,0.646,0.98,4.13
+2016,WCFR,San Antonio Spurs,4,Memphis Grizzlies,0,San Antonio Spurs,0.484,0.375,8490,0.817,0.44,0.331,8126,0.512,10.28,-2.14
+2015,Finals,Golden State Warriors,4,Cleveland Cavaliers,2,Golden State Warriors,0.478,0.398,9016,0.817,0.458,0.367,8457,0.646,10.01,4.08
+2015,ECF,Cleveland Cavaliers,4,Atlanta Hawks,0,Cleveland Cavaliers,0.458,0.367,8457,0.646,0.466,0.38,8409,0.732,4.08,4.75
+2015,WCF,Golden State Warriors,4,Houston Rockets,1,Golden State Warriors,0.478,0.398,9016,0.817,0.444,0.348,8522,0.683,10.01,3.82
+2015,ECS,Atlanta Hawks,4,Washington Wizards,2,Atlanta Hawks,0.466,0.38,8409,0.732,0.462,0.36,8080,0.561,4.75,0.17
+2015,ECS,Cleveland Cavaliers,4,Chicago Bulls,2,Cleveland Cavaliers,0.458,0.367,8457,0.646,0.442,0.353,8265,0.61,4.08,2.54
+2015,WCS,Golden State Warriors,4,Memphis Grizzlies,2,Golden State Warriors,0.478,0.398,9016,0.817,0.458,0.339,8062,0.671,10.01,3.62
+2015,WCS,Houston Rockets,4,LA Clippers,3,Houston Rockets,0.444,0.348,8522,0.683,0.473,0.376,8751,0.683,3.82,6.80
+2015,ECFR,Atlanta Hawks,4,Brooklyn Nets,2,Atlanta Hawks,0.466,0.38,8409,0.732,0.451,0.331,8038,0.463,4.75,-3.13
+2015,ECFR,Chicago Bulls,4,Milwaukee Bucks,2,Chicago Bulls,0.442,0.353,8265,0.61,0.459,0.363,8023,0.5,2.54,-0.09
+2015,ECFR,Cleveland Cavaliers,4,Boston Celtics,0,Cleveland Cavaliers,0.458,0.367,8457,0.646,0.443,0.327,8312,0.488,4.08,-0.40
+2015,ECFR,Washington Wizards,4,Toronto Raptors,0,Washington Wizards,0.462,0.36,8080,0.561,0.455,0.352,8527,0.598,0.17,2.45
+2015,WCFR,Golden State Warriors,4,New Orleans Pelicans,0,Golden State Warriors,0.478,0.398,9016,0.817,0.457,0.37,8147,0.549,10.01,1.13
+2015,WCFR,Houston Rockets,4,Dallas Mavericks,1,Houston Rockets,0.444,0.348,8522,0.683,0.463,0.352,8628,0.61,3.82,3.36
+2015,WCFR,LA Clippers,4,San Antonio Spurs,3,LA Clippers,0.473,0.376,8751,0.683,0.468,0.367,8461,0.671,6.80,6.34
+2015,WCFR,Memphis Grizzlies,4,Portland Trail Blazers,1,Memphis Grizzlies,0.458,0.339,8062,0.671,0.45,0.362,8429,0.622,3.62,4.41
